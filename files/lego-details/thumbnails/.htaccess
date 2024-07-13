@@ -1,0 +1,11 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+</IfModule>
+
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule .+ - [L]
+
+# auto generate thumbnails
+RewriteRule (.+)\.png ../download-thumbnail.php?brickId=$1 [L]
+
+#ErrorDocument 404 /lego-details/thumbnails/not-found.jpg

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Part: 3711.dat
+Description: Arch  1 x  6 x  2 with Thick Top and Reinforced Underside
+Date: 24/02/15 18.39-->
+<connections>
+<cpoint type="CHAIN">
+<base x="7.5" y="0.0" z="0"></base>
+<dir x="10.0" y="0.0" z="0"></dir>
+</cpoint>
+<cpoint type="CHAIN">
+<base x="-10.0" y="0.0" z="0"></base>
+<dir x="-7.5" y="0.0" z="0"></dir>
+</cpoint>
+<cpoint type="R_CHAIN">
+<base x="7.5" y="0.0" z="16.0"></base>
+<dir x="10.0" y="0.0" z="16.0"></dir>
+</cpoint>
+<cpoint type="R_CHAIN">
+<base x="-10.0" y="0.0" z="16.0"></base>
+<dir x="-7.5" y="0.0" z="16.0"></dir>
+</cpoint>
+</connections>
+

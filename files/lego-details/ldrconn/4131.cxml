@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<detail version="2">
+	<origin x="-10.000" y="104.000" z="10.000"></origin>
+	<moveType>normal</moveType>
+</detail>
+<connections>
+</connections>
+<anticonnections>
+</anticonnections>
+<pivots>
+</pivots>
+</root>

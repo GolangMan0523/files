@@ -1,0 +1,21 @@
+0 Electric Train 12V Flashing-Light Unit
+0 Name: 990.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 !KEYWORDS level crossing, gates, flashlight, flash
+
+0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+0 !HISTORY 2013-04-01 [MagFors] Changed colour 383 to 494 (real metal)
+0 !HISTORY 2020-02-13 [MagFors] Divided into parts
+
+
+0 // Back Part with Pin
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 990b.dat
+0 // Electric Parts
+1 366 0 0 0 1 0 0 0 1 0 0 0 1 990c.dat
+0 // Front Part with Hole
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 990a.dat
+

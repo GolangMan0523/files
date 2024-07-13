@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<detail>
+<origin x="-10" y="0" z="10"></origin>
+<moveType>normal</moveType>
+</detail>
+<connections>
+<cpoint type="STUD">
+<base x="0" y="0" z="0"></base>
+<dir x="-4.898587196589413e-16" y="4" z="-5.99903913064743e-32"></dir>
+</cpoint>
+<cpoint type="R_STUD">
+<base x="2.9391523179536475e-15" y="-24" z="3.5994234783884583e-31"></base>
+<dir x="2.4492935982947065e-15" y="-20" z="2.999519565323715e-31"></dir>
+</cpoint>
+</connections>
+<anticonnections>
+</anticonnections>
+</root>

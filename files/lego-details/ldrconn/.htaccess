@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+</IfModule>
+
+ErrorDocument 404 /simple404.txt

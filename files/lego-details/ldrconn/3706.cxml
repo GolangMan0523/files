@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<detail version="2">
+	<origin x="0.000" y="14.000" z="0.000"></origin>
+	<moveType>tubes</moveType>
+</detail>
+<connections>
+<cpoint type="AXLE">
+	<base x="60.000" y="0.000" z="0.000" ></base>
+	<dir x="-60.000" y="0.000" z="0.000" ></dir>
+</cpoint>
+<cpoint type="GEAR_RADIUS">
+	<base x="0.000" y="6.000" z="0.000" ></base>
+	<dir x="0.000" y="0.000" z="0.000" ></dir>
+</cpoint>
+<cpoint type="GEAR_AXIS">
+	<base x="40.000" y="0.000" z="0.000" ></base>
+	<dir x="-40.000" y="0.000" z="0.000" ></dir>
+</cpoint>
+</connections>
+<anticonnections>
+</anticonnections>
+<pivots>
+<point default="false" active="false" type="RAIL" x="0.000" y="0.000" z="0.000" dx="-1.000" dy="0.000" dz="0.000" ></point>
+<point default="false" active="false" type="RAIL" x="60.000" y="0.000" z="0.000" dx="-1.000" dy="0.000" dz="0.000" ></point>
+<point default="false" active="false" type="RAIL" x="-60.000" y="0.000" z="0.000" dx="1.000" dy="0.000" dz="0.000" ></point>
+</pivots>
+</root>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<detail>
+<origin x="0" y="14" z="0"></origin>
+<moveType>normal</moveType>
+</detail>
+<connections>
+<cpoint type="R_AXLE">
+<base x="0" y="0" z="-20"></base>
+<dir x="0" y="-8.881784197001252e-15" z="20"></dir>
+</cpoint>
+<cpoint type="CLIP">
+<base x="0" y="0" z="-20"></base>
+<dir x="0" y="-8.881784197001252e-15" z="20"></dir>
+</cpoint>
+</connections>
+<anticonnections>
+</anticonnections>
+</root>

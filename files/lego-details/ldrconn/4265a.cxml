@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<detail>
+<origin x="0" y="14" z="0"></origin>
+<moveType>normal</moveType>
+</detail>
+<connections>
+<cpoint type="R_AXLE">
+<base x="0" y="0" z="-5"></base>
+<dir x="0" y="-1.7763568394002505e-15" z="3"></dir>
+</cpoint>
+<cpoint type="CLIP">
+<base x="0" y="0" z="-5"></base>
+<dir x="0" y="-1.7763568394002505e-15" z="3"></dir>
+</cpoint>
+<cpoint type="GEAR_RADIUS">
+<base x="0" y="-6" z="0"></base>
+<dir x="0" y="0" z="0"></dir>
+</cpoint>
+<cpoint type="GEAR_AXIS">
+<base x="0" y="0" z="0"></base>
+<dir x="0" y="0" z="-11"></dir>
+</cpoint>
+</connections>
+<anticonnections>
+</anticonnections>
+</root>

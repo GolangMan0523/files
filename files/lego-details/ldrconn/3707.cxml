@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<detail>
+<origin x="0" y="14" z="0"></origin>
+<moveType>tubes</moveType>
+</detail>
+<connections>
+<cpoint type="AXLE">
+<base x="80" y="0" z="0"></base>
+<dir x="-80" y="3.552713678800501e-14" z="0"></dir>
+</cpoint>
+<cpoint type="GEAR_RADIUS">
+<base x="0" y="-6" z="0"></base>
+<dir x="0" y="0" z="0"></dir>
+</cpoint>
+<cpoint type="GEAR_AXIS">
+<base x="40" y="0" z="0"></base>
+<dir x="-40" y="0" z="0"></dir>
+</cpoint>
+</connections>
+<anticonnections>
+</anticonnections>
+</root>
